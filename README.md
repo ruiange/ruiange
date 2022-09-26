@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm [ruiange](https://www.ruiange.work), a developer who likes delicious food and games.
+I'm [ruiange](https://www.ruiange.work), A developer who likes games.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
